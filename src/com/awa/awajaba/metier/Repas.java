@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package com.awa.awajaba.metier;
+import java.time.LocalDate;
 
 /**
  *
  * @author developpeur
  */
 public class Repas {
-    
+    private int numero;
+    private LocalDate date;
 }
